@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamrajank/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/iamrajank/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/iamrajank/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/iamrajank/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/iamrajank/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/iamrajank/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
 |  |
 | ------- |

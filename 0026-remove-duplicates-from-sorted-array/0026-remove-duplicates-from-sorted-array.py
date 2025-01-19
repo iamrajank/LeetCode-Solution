@@ -1,7 +1,6 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-
-        #First Approach (Brute force approach)
+               #First Approach (Brute force approach)
         temp = []
         for i in range(len(nums)):
             if nums[i] not in temp:
@@ -10,6 +9,4 @@ class Solution:
         for i in temp:
             nums.append(i)
         return len(nums)
-
-
-   
+        

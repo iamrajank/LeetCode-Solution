@@ -4,5 +4,4 @@ class Solution:
         ans = (n * (n+1))// 2
         result = ans - sum(nums)
         return result
-
         

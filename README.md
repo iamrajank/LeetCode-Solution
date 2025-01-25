@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/iamrajank/LeetCode-Solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/iamrajank/LeetCode-Solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/iamrajank/LeetCode-Solution/tree/master/1904-second-largest-digit-in-a-string) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/iamrajank/LeetCode-Solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |

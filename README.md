@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamrajank/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0952-word-subsets](https://github.com/iamrajank/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |

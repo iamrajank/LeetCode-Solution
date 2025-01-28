@@ -1,15 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         temp = {}
-        n = len(nums)
         for i in nums:
             if i not in temp:
                 temp[i] = 1
             else:
                 temp[i] += 1
-        for i,j in temp.items():
-            majority_ele = n // 2
-            if j > majority_ele:
+        n = len(nums)
+        m_ele = n//2
+        for i in temp:
+            if temp[i] > m_ele:
                 return i
 
+        
         

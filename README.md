@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/iamrajank/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/iamrajank/LeetCode-Solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/iamrajank/LeetCode-Solution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->

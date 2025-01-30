@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/iamrajank/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/iamrajank/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/iamrajank/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/iamrajank/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/iamrajank/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/iamrajank/LeetCode-Solution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

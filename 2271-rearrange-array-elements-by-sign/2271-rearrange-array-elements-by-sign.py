@@ -9,7 +9,6 @@ class Solution:
                 temp_pos.append(nums[i])
             else:
                 temp_neg.append(nums[i])
-    
         for i in range(len(temp_pos)):
             nums[2 * i] = temp_pos[i]
         for i in range(len(temp_neg)):

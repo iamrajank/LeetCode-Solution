@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamrajank/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/iamrajank/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0952-word-subsets](https://github.com/iamrajank/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/iamrajank/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/1603-running-sum-of-1d-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/iamrajank/LeetCode-Solution/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/iamrajank/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/iamrajank/LeetCode-Solution/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |

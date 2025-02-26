@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/iamrajank/LeetCode-Solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/iamrajank/LeetCode-Solution/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/iamrajank/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/iamrajank/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamrajank/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/iamrajank/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/iamrajank/LeetCode-Solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/iamrajank/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamrajank/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/iamrajank/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |

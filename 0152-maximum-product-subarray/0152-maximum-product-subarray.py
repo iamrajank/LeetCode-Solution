@@ -1,5 +1,7 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
+        # Better approach
+        
         # result = nums[0]
         # for i in range(len(nums)):
         #     ans = 1
@@ -7,6 +9,8 @@ class Solution:
         #         ans = ans * nums[j]
         #         result = max(result,ans)
         # return result
+
+        # Optimal
 
         n = len(nums) # size of array.
 

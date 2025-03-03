@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamrajank/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/iamrajank/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0792-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting

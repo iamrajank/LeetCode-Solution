@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/iamrajank/LeetCode-Solution/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/1603-running-sum-of-1d-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/iamrajank/LeetCode-Solution/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/iamrajank/LeetCode-Solution/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/iamrajank/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |

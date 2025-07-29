@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrajank/LeetCode-Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamrajank/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/iamrajank/LeetCode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Divide and Conquer
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iamrajank/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

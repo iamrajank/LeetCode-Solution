@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/iamrajank/LeetCode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/iamrajank/LeetCode-Solution/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/iamrajank/LeetCode-Solution/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Divide and Conquer
 |  |

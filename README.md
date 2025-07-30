@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/iamrajank/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/iamrajank/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/iamrajank/LeetCode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/iamrajank/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |
@@ -186,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/iamrajank/LeetCode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/iamrajank/LeetCode-Solution/tree/master/2491-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/iamrajank/LeetCode-Solution/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->

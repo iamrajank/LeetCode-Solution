@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/iamrajank/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/iamrajank/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/iamrajank/LeetCode-Solution/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/iamrajank/LeetCode-Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/iamrajank/LeetCode-Solution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Union Find
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iamrajank/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/iamrajank/LeetCode-Solution/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/iamrajank/LeetCode-Solution/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/iamrajank/LeetCode-Solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/iamrajank/LeetCode-Solution/tree/master/2491-smallest-even-multiple) |

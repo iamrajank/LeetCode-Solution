@@ -6,7 +6,7 @@ class Solution:
             if i.isalnum():
                 temp = temp + i
         left = 0
-        right = len(temp)-1
+        right = len(temp) - 1
         while left < right:
             if temp[left] != temp[right]:
                 return False
@@ -15,8 +15,5 @@ class Solution:
                 right -= 1
         return True
 
-        
-     
- 
 
         

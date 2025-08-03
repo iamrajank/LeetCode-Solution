@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/iamrajank/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/iamrajank/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/iamrajank/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamrajank/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/iamrajank/LeetCode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |

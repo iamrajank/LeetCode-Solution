@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/iamrajank/LeetCode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1542-consecutive-characters](https://github.com/iamrajank/LeetCode-Solution/tree/master/1542-consecutive-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/iamrajank/LeetCode-Solution/tree/master/1904-second-largest-digit-in-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/iamrajank/LeetCode-Solution/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamrajank/LeetCode-Solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/iamrajank/LeetCode-Solution/tree/master/3194-find-words-containing-character) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/iamrajank/LeetCode-Solution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
